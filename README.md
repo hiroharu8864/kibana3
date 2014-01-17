@@ -16,12 +16,6 @@ TODO: Write usage instructions for each cookbook.
 ```
 
 ```json
-
-
-e.g.
-Just include `kibana3` in your node's `run_list`:
-
-```json
 {
   "run_list":[
     "recipe[kibana3::default]",
