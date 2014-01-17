@@ -1,8 +1,10 @@
 kibana3 Cookbook
 ================
-Recipe for install kibana3 to CentOS
-After installing access below URL pages.
-http://your url address/kibana-latest/
+Recipe for install kibana3 to CentOS.
+
+After installing, access below URL pages.
+
+http://YourURLAddress/kibana-latest/
 
 Usage
 -----
