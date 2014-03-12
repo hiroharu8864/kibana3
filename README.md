@@ -1,8 +1,8 @@
 kibana3 Cookbook
 ================
-Recipe for install kibana3 to CentOS.
-
-After installing, access below URL pages.
+Recipe for install kibana3 to CentOS.  
+VagrantのCentOS環境にkibanaのインストールを行う。  
+インストール後は、以下のURLよりkibanaの動作を確認する。  
 
 http://YourURLAddress/kibana-latest/
 
