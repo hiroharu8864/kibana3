@@ -6,6 +6,12 @@ After installing, access below URL pages.
 
 http://YourURLAddress/kibana-latest/
 
+PreRequirement
+-----
+```$ vagrant box add base64 CentOS-6.3-x86_64-v20130101.box 
+```
+
+
 Usage
 -----
 #### kibana3::default
