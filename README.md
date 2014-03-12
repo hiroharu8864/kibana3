@@ -8,8 +8,7 @@ http://YourURLAddress/kibana-latest/
 
 PreRequirement
 -----
-```$ vagrant box add base64 CentOS-6.3-x86_64-v20130101.box 
-```
+$ vagrant box add base64 CentOS-6.3-x86_64-v20130101.box
 
 
 Usage
